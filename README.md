@@ -1,5 +1,16 @@
 # Game Animation Sample with Overlay Layering | Unreal Engine 5
 
+> **This repository holds the free version, for Unreal Engine 5.4 to 5.7.**
+>
+> **GASPALS 1.3 for Unreal Engine 5.8** is the full character template: multiplayer on both pawns (Mover and
+> Character Movement), ragdoll and takedowns, a cover system, full-body first person, data-driven equipment and
+> Gameplay Cameras. Blueprint only.
+>
+> [Watch the trailer (3 min)](https://youtu.be/fMs8y9bBXqM) ·
+> [Docs](https://docs.polygonhive.com/gaspals/) ·
+> [Free demo](https://www.patreon.com/polygonhive/posts/try-gaspals-1-2-172150565) ·
+> [Full project on Patreon](https://patreon.polygonhive.com)
+
 ## Introduction
 
 This project integrates the ALS Overlay Layering System into the new Unreal Engine Motion Matching Game Animation Sample.
@@ -16,7 +27,12 @@ Advanced Locomotion System (ALS) provides a nice Overlay System that allows us t
 
 ## Overview
 
-An overview of the system is available on my YouTube channel [Polygon Hive](https://www.youtube.com/watch?v=RDWNfIqvWBk&list=PLs9e0eJQMI2aaulgKJzC8feN1UEwDkEnq)
+- [GASPALS trailer](https://youtu.be/fMs8y9bBXqM): where the project is now, in 3 minutes.
+- [How to add overlay states](https://www.youtube.com/watch?v=RFU-FteVTuc): a tutorial made with this repository.
+- [How it started](https://www.youtube.com/watch?v=RDWNfIqvWBk&list=PLs9e0eJQMI2aaulgKJzC8feN1UEwDkEnq): the first
+  overview, June 2024.
+
+More on my YouTube channel, [Polygon Hive](https://www.youtube.com/@polygonhive).
 
 ## Migrating Plugin
 
